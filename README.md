@@ -6,6 +6,10 @@ It extracts and downloads high-quality audio without requiring video downloads.
 The project offers a fast, simple, and user-friendly experience with built-in playback support.
 Designed for personal use, it makes discovering and downloading music effortless.
 
+
+![image alt](https://github.com/Kartik-324/GetThatSong/blob/44c8fefc0c80f2c41217dbea09876c3fb655748e/Screenshot%202026-01-03%20192449.png)
+
+
 ---
 ## ✨ Features
 
