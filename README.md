@@ -397,4 +397,9 @@ Made with ❤️ and 🎵
 
 **If you found this helpful, please ⭐ star the repo!**
 
-</div>
+## 📄 License
+
+This project is protected under a restrictive license.
+The source code is shared for viewing and evaluation purposes only.
+Any reuse or commercial use requires explicit permission.
+
